@@ -1,5 +1,5 @@
 import React from "react"
-import { useContext } from "react"
+import { useContext, useState } from "react"
 import { UserContext } from "../context/userContext"
 
 export const Settings = () => {
